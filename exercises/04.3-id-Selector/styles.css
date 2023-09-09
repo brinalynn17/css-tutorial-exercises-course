@@ -6,3 +6,7 @@
 	display: inline-block;
 	border-radius: 5px;
 }
+
+#small {
+	font-size: 9px;
+}

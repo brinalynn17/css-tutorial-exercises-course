@@ -1,1 +1,11 @@
 /* add your styles here */
+#bg {
+	background-image: url("../../.learn/assets/background-vertical.jpg?raw=true");
+}
+
+.h1 {
+	font-family: "Courier New", Courier, monospace;
+}
+#body {
+	font-family: "Times New Roman", Times, serif;
+}
